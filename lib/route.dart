@@ -19,7 +19,7 @@ class MyRoutes {
         return MaterialPageRoute(
           builder: (context) => const Scaffold(
             body: Center(
-              child: Text("ERROR"),
+              child: Text("something went wrong"),
             ),
           ),
         );
