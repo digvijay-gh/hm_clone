@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786692646422",
+    "project_id": "hm-by-digvijay",
+    "storage_bucket": "hm-by-digvijay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786692646422:android:888e43ff8d03ef595ab737",
+        "android_client_info": {
+          "package_name": "com.example.hm_by_digvijay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786692646422-rpe1o1icb80g9d4me7g71q3n2q8vjdpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRuPT_0PY736hZE_tYiFFQv_c6GK5l6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786692646422-rpe1o1icb80g9d4me7g71q3n2q8vjdpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
